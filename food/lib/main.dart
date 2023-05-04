@@ -69,7 +69,7 @@ class _MyAppState extends State<MyApp> {
                     Text(
                       _quote,
                       textAlign: TextAlign.center,
-                      style: const TextStyle(fontSize: 24 ,color: Color.fromARGB(255, 22, 33, 117)),selectionColor: Colors.red,
+                      style: const TextStyle(fontSize: 24 ,color: Color.fromARGB(255, 26, 34, 92)),selectionColor: Colors.red,
                     ),
                     const SizedBox(height: 16),
                     ElevatedButton(
